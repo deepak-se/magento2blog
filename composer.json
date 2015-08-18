@@ -1,0 +1,24 @@
+{
+    "name": "ced/magento2-blogmodule",
+    "description": "Blog module using composer!",
+    "require": {
+        "magento/project-community-edition": "*"
+    },
+    "type": "magento2-module",
+    "version": "0.1.0",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Ced/Blog"
+            ]
+        ]
+    },
+    "authors": [
+        {
+            "name": "Deepak Gupta",
+            "homepage": "https://cedcoss.com/",
+            "role": "Developer"
+        }
+    ]
+}
