@@ -31,7 +31,7 @@ In order to install it run the below command on the root directory:
 
 # Usage
 
-        http://yourstore/helloworld/index/
+        http://yourstore/blog/index/
 
 
 Feel free to contribute, and contact me for any issues.
